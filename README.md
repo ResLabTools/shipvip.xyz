@@ -2,11 +2,11 @@
 
 This repository contains internal documentation and endpoint structure for the SHIPVIP Logistics Management Platform (DevNet 2025).
 
-> 🚫 For use with SHIPVIP sandbox services only. Not connected to production APIs.
+> For use with SHIPVIP sandbox services only. Not connected to production APIs.
 
 ---
 
-## 📦 Endpoints
+## Endpoints
 
 - `POST /api/auth/reset`
 - `GET /api/track?tracking_id=...`
@@ -18,13 +18,13 @@ This repository contains internal documentation and endpoint structure for the S
 
 ---
 
-## 🔐 Auth Structure
+## Auth Structure
 
 All requests require a valid `access_key`. Expiry is 48 hours. DevNet keys are rotated manually via admin panel.
 
 ---
 
-## 🧪 Sandbox Mode Flags
+## Sandbox Mode Flags
 
 - `simulate_delay=true`
 - `scan_failure=true`
