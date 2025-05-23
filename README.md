@@ -33,5 +33,6 @@ All requests require a valid `access_key`. Expiry is 48 hours. DevNet keys are r
 ---
 
 **DevNet ID:** SHIPVIP-STAGING-ENV-2025  
-**Contact:** dev-admin@shipvip.xyz
+**Contact:** https://shipvip.xyz/admin/help
+
 
