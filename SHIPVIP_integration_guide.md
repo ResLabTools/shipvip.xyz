@@ -41,4 +41,4 @@ Returns:
 - `403`: Token expired or missing sandbox flag
 - `502`: DevNet outage (try again in 2–5 minutes)
 
-More help: dev-admin@shipvip.xyz
+More help: https://shipvip.xyz/admin/help
